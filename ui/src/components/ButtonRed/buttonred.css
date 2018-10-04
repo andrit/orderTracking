@@ -1,0 +1,20 @@
+button{
+    background-color: #D71920;
+    padding: 20px 40px;
+    text-align: center;
+    color: white;
+    border: 1px solid transparent;
+    width: 95%;
+    margin: 10px auto 0;
+    transition: all .5s;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+button:hover{
+    background-color: white;
+    color: #D71920;
+    font-size: 19px;
+    padding: 19.5px 40px;
+    border: 1px solid #D71920;
+}

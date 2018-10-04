@@ -1,0 +1,26 @@
+{
+  "name": "orderstatus",
+  "version": "1.0.0",
+  "description": "Project for new Order Status form which consolidates teh existing Online Order and Shipment Tracking forms",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "prop-types": "^15.6.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "redux": "^4.0.0",
+    "redux-saga": "^0.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://andritpcr@bitbucket.org/andritpcr/order-status.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/andritpcr/order-status#readme"
+}
