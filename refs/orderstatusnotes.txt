@@ -1,4 +1,0 @@
-shipping inclusion text   by item/by shipment
-disk/gen32p
-27 entries
-to get the text out of gen32p you need shipping info group number and sequence
